@@ -5,5 +5,7 @@ download,
 
 https://www.catalog.update.microsoft.com/Search.aspx?q=broadcom%20802.11n
 
-![2020-04-21_7.77.119.0.JPG](2020-04-21_7.77.119.0.JPG)
+![2020-04-21_7.77.119.0.JPG](2020-04-21_7.77.119.0.JPG)  
+
+![VEN14E4_DEV4727.JPG](VEN14E4_DEV4727.JPG)
 
